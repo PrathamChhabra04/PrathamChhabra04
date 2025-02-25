@@ -1,4 +1,7 @@
 <h1 align="center"><img src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Welcome+to+my+Profile!+%E2%9C%A8;I%27m+Pratham+Chhabra!;A+Passionate+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3"/></h1>
+<div align="center">
+    <img align="center" alt="Coding Vibes" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
 <h3 align="center">Building Intelligent Web Solutions with Next.js & AI</h3>
 <div align="center">
     <h3>♨︎ _ ♨︎</h3>
@@ -9,10 +12,6 @@
     <p>💼 Down for projects, hackathons, or freelance gigs!</p>
     <p>🍴 Check out what I’ve been cooking since <a href="https://github.com/PrathamChhabra04?tab=repositories"><strong>2024</strong></a></p>
 </div>
-<div align="center">
-    <img align="center" alt="Coding Vibes" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-</div>
-</br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prathamchhabra04&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 
